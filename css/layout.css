@@ -1,41 +1,31 @@
 .box1{
-    background-color: rgb(209, 25, 86);
     float: left;
     width: 100%;
     height: 75px;
 }
 
 .box2{
-    background-color: rgb(172, 172, 172);
     float: left;
     width: 20%;
     height: 650px;
 }
 
 .box3{
-    background-color: rgb(218, 218, 218);
     float: left;
     width: 60%;
     height: 650px;
 }
 
 .box4{
-    background-color: rgb(172, 172, 172);
     float: left;
     width: 20%;
     height: 650px; 
 }
 .box5{
-    background-color: rgb(209, 25, 86);
     float: left;
     width: 100%;
     height: 75px;
 }
-h1{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: xx-large;
-    color: rgb(218, 218, 218);
-}
-p{
-    font-size: large;
+img{
+    height: 300px;
 }
